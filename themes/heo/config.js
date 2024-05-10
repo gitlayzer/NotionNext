@@ -18,7 +18,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'BLOG.DEVOPS-ENGINEER.COM.CN',
   HEO_HERO_TITLE_4: '我的 Github',
-  HEO_HERO_TITLE_5: '点击右方跳转',
+  HEO_HERO_TITLE_5: '点我去往 Github',
   HEO_HERO_TITLE_LINK: 'https://github.com/gitlayzer',
 
   // 英雄区显示三个置顶分类
